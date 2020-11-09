@@ -1,0 +1,4 @@
+
+Transport Method : Pickup, Name : tagi, Order : ['Choose a pizza', 'Cheese', 'Meat lovers', 'Choose a pizza', 'Choose a pizza'], Total Cost : $8.5
+Transport Method : Delivery, Name : tagi, Address : taji.ras003@gmail.com, Number : 02245678967, Order : ['Choose a pizza', 'Cheese', 'Pepperoni', 'Choose a pizza', 'Choose a pizza'], Total Cost : $20.0
+Transport Method : Delivery, Name : tagi, Address : taji.ras003@gmail.com, Number : 0224578697, Order : ['Chicken & Cranberry', 'Hawaiian', 'Butter Chicken', 'Vegetarian', 'Cheesy Garlic'], Total Cost : $42.0
